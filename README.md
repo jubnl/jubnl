@@ -40,6 +40,6 @@ Outside of tech, I'm a music addict — always listening, occasionally mixing at
 
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=jubnl&short_numbers=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jubnl&short_numbers=true)](https://git.io/streak-stats)
 ---
 ![](https://komarev.com/ghpvc/?username=jubnl&style=flat&color=blue)
